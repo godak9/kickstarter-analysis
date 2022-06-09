@@ -3,7 +3,7 @@ Performing analysis on global Kickstarter data to uncover trends in successful c
 #Important Findings
 ## Outcomes of US Kickstarter Campaigns based on Category
 ### Outcomes of All Categories 
-![ParentCategoriesChart](path/to/ParentCategoriesChart.png)
+![ParentCategoriesChart](https://user-images.githubusercontent.com/104794100/172942155-d84b1b17-1b8f-42b1-b443-81bff3cb551a.png)
 ### Outcomes of Theather Category
 ![Theater Outcomes](path/to/Theater Outcomes.png)
 ### Outcomes of Plays Subcategory
