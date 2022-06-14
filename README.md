@@ -1,7 +1,8 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on global Kickstarter data to uncover trends in successful campaigns 
-#Important Findings
-## Outcomes of US Kickstarter Campaigns based on Category
+Performing analysis on global Kickstarter data to uncover trends in successful theather campaign 
+##Overview 
+Kickstart campaigns fund independent projects. To run a succesful kickstarter campaign one should take into consideration importnant variables like the number of donors, the donation goal, and the best time of year to run a campaign. Using global kickstarter data I narrowed down a search to data on theather campaigns and performed analyses that revealed trends on donation goals and launch times. 
+
 ### Outcomes of All Categories 
 ![ParentCategoriesChart](https://user-images.githubusercontent.com/104794100/172942155-d84b1b17-1b8f-42b1-b443-81bff3cb551a.png)
 ### Outcomes of Theather Category
