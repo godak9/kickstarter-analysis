@@ -20,8 +20,11 @@ Finally, I found the percentage of successful, failed, and canceled kickstarter 
 ```
 =ROUND(B3/E3*100, 0)
 ```
-With the data in the "Outcomes Based on Goals" worksheet, I created the line graph below by selecting what data I wanted to be included in the "Select Data" section in the "Chart Design" Ribbon. 
+With the data in the "Outcomes Based on Goals" worksheet, I created the line graph below by selecting what data I wanted to be included in the "Select Data" section in the "Chart Design" Ribbon. Succesfful, failed, and cancelled campaigns were represented as individual series.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104794100/173917237-87ff7485-971e-469b-b04a-5691bf52953f.png)
 
 ### Challenges 
+Outliers could become a problem for any data set when trying to graphically represent data. Outliers can muddle patterns, but not including outlier data points to make patterns more visible would mean misreprention of data. Outliers in this analysis were slightly problematic and muddled some patterns in the line graphs. Since percentage was used in the "Outcomes Based on Goals" graph instead of the total number of campaigns the graph fails to show the obvious pattern that the majority of campaigns set a goal below $4,999. Below is a line grpah that shows the total number of outcomes based on goals.
+![Number Outcomes ](https://user-images.githubusercontent.com/104794100/173922172-6375c95c-281d-4aaa-bf0a-e133f2701260.png)
+Using percentage of outcomes in the line grpah can make interpreting some data points confusing when deciding what donation goal to set becasue some goal ranges contain few data points. 
 ## Conclusions 
