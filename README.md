@@ -24,7 +24,13 @@ With the data in the "Outcomes Based on Goals" worksheet, I created the line gra
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104794100/173917237-87ff7485-971e-469b-b04a-5691bf52953f.png)
 
 ### Challenges 
-Outliers could become a problem for any data set when trying to graphically represent data. Outliers can muddle patterns, but not including outlier data points to make patterns more visible would mean misreprention of data. Outliers in this analysis were slightly problematic and muddled some patterns in the line graphs. Since percentage was used in the "Outcomes Based on Goals" graph instead of the total number of campaigns the graph fails to show the obvious pattern that the majority of campaigns set a goal below $4,999. Below is a line grpah that shows the total number of outcomes based on goals.
-![Number Outcomes ](https://user-images.githubusercontent.com/104794100/173922172-6375c95c-281d-4aaa-bf0a-e133f2701260.png)
-Using percentage of outcomes in the line grpah can make interpreting some data points confusing when deciding what donation goal to set becasue some goal ranges contain few data points. 
+Outliers could become a problem for any data set when trying to graphically represent data. Outliers can muddle patterns, but not including outlier data points to make patterns more visible would mean misreprention of data. Outliers in this analysis were slightly problematic and muddled some patterns in the line graphs. Since percentage was used in the "Outcomes Based on Goals" graph instead of the total number of campaigns the graph fails to show the obvious pattern that more than half the campaigns set a goal below $4,999. 
 ## Conclusions 
+### Theater Outcomes by Launch Date
+Based on my analysis, the best time of year to run a successful theater kickstarter campaign is in May since this is the month in which the greatest amount of successful campaigns were run and the month in which the number of successful campaigns furthest exceeded the number of failed campaigns. 
+Moreover, the worst time of year to run a successful theater kickstarter campaign is in December since this is the month in which the least amount of successful campaigns were run and the month in which the number of successful campaigns was almost equal to the number of failed campaign.
+### Play Outcomes Based on Goals 
+Based on my analysis, the best goal to set for a successgul play kickstarter campaign is below $4,999 since the "Less than $1,000" range and the "$1,000 to $4,999" range had the greatest percent of successful campaigns when compared to the total amount of campaigns run in these goal ranges. Based on the additional information included below a goal of $1,000 to $4,999" would best since 51% of the total projects were run in this goal range. 
+### Summary of Limitations and Additional Resources
+Using percentage of outcomes in the line grpah can make interpreting some data points confusing when deciding what donation goal to set becasue some goal ranges contain few data points. Including the graph below could allievate confusion about goal setting created by the percentage graph since 69% of the total projects fell at or below a goal of $4,999. 
+![Number Outcomes ](https://user-images.githubusercontent.com/104794100/173922172-6375c95c-281d-4aaa-bf0a-e133f2701260.png)
